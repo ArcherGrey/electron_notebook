@@ -5,3 +5,4 @@
 目录
 - [基础环境](https://github.com/ArcherGrey/electron_notebook/blob/master/docs/1.md)
 - [项目结构](https://github.com/ArcherGrey/electron_notebook/blob/master/docs/2.md)
+- [添加菜单]()
