@@ -1,4 +1,4 @@
-# 基于electron 开发的笔记本
+# 基于 `electron` 开发的笔记本
 
 参考 `windows` 自带的记事本应用开发
 
